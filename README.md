@@ -22,9 +22,10 @@ Ten projekt to prosty program biblioteczny napisany w języku C++, który wykorz
 1. Zainstaluj kompilator C++.
 2. Zainstaluj bibliotekę MySQL Connector/C++.
 3. Upewnij się, że serwer MySQL jest uruchomiony.
-4. Dodaj bazę danych na serwer MySQL.
-5. Skompiluj program `biblioteka.exe`.
-6. Uruchom program `biblioteka.exe`.
+4. Utwórz bazę danych 'biblioteka'.
+5. Importuj do bazy danych biblioteke plik biblioteka.sql.
+6. Skompiluj program `biblioteka.exe`.
+7. Uruchom program `biblioteka.exe`.
 
 ### Użycie
 
